@@ -1,2 +1,2 @@
-server:
-  port: 1235
+config:
+  info: main brance,springcloud-config/config-test.yml version=1
